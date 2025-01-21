@@ -11,3 +11,8 @@ def minus(a, b):
 def multiply(a, b):
     c = a * b
     print(c)
+
+
+def divide(a, b):
+    c = a / b
+    print(c)
